@@ -1,4 +1,4 @@
-#homework 5 [my deplooy](https://Nurtimax.github.io/homework-5.1)
+#homework 5.1 [my deplooy](https://Nurtimax.github.io/homework-5.1)
 
 
 # Getting Started with Create React App
